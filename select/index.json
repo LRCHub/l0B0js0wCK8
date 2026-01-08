@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "オールドファッション",
+  "base_artist": "back number",
+  "createdAt": "2026-01-08T15:36:03.565767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オールドファッション",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_オールドファッション_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オールドファッション",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/02_オールドファッション_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オールドファッション - Old Fashion",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_オールドファッション_-_Old_Fashion_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オールドファッション",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/04_オールドファッション_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オールドファッション",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_オールドファッション_back_number.txt"
+    }
+  ]
+}
